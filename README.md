@@ -8,4 +8,5 @@ Cat this file into your $HOME/.bashrc for cowsay to remind you how long its been
 
 cat ./cowsay-bashrc.sh >> $HOME/.bashrc
 
-To uninstall remove the commented lines and the code within.
+
+To uninstall remove or comment the commented lines "#DistroHopCowsay" and the code within.
